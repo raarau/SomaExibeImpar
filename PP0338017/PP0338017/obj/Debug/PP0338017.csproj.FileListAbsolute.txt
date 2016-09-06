@@ -1,0 +1,12 @@
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.exe.config
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.exe
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.pdb
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.csprojResolveAssemblyReference.cache
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.exe
+F:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.pdb
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.exe.config
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.exe
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.pdb
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.exe
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\bin\Debug\PP0338017.pdb
+H:\Celia_Ex\Aula 4\Exemplo\Exercicio 3\PP0338017\PP0338017\obj\Debug\PP0338017.csprojResolveAssemblyReference.cache
